@@ -1,6 +1,6 @@
 # 3D Point Cloud Generation from Monocular Images 🚀  
 
-**FURP-2024-2025 | Week 2 Report: Depth Estimation & 3D Reconstruction**  
+**FURP-2024-2025 | Week 2 Report: Depth Estimation & 3D Reconstruction**  （https://github.com/ZEbirds/FURP-2024-2025-Zibo-Zheng-Weekly-Report/tree/main/Week%202）
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Open3D](https://img.shields.io/badge/Open3D-0.17.0-green)
 ![ZoeDepth](https://img.shields.io/badge/ZoeDepth-v1.0.0-orange)
