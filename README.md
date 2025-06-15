@@ -13,7 +13,7 @@
 </div>
 
 ## 🔍 Project Overview  
-This project implements the **ZoeDepth monocular depth estimation algorithm** [1](@ref), achieving a complete pipeline from RGB images to 3D point clouds. Core innovations include:  
+This project implements the **ZoeDepth monocular depth estimation algorithm** (https://github.com/isl-org/ZoeDepth), achieving a complete pipeline from RGB images to 3D point clouds. Core innovations include:  
 1. **Depth Map Generation**: Real-time prediction using lightweight ZoeDepth-N model  
 2. **Point Cloud Conversion**: Mapping pixels to 3D space via Open3D  
 3. **Interactive Visualization**: Dynamic rotation/zooming of point clouds  
